@@ -1,0 +1,2 @@
+# ngx-slider
+Angular slider
